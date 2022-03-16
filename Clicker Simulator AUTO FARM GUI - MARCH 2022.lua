@@ -17,7 +17,7 @@ end)
 -- All Of The God Damn Easy Ass Shit (Ui Lib Set Ups)
 local Luxtl = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Luxware-UI-Library/main/Source.lua"))()
 
-local Luxt = Luxtl.CreateWindow("Click Shitulator", 6105620301)
+local Luxt = Luxtl.CreateWindow("Clicker Simulator", 6105620301)
 -- Tabs
 local AutoFarm = Luxt:Tab("Auto-Farm", 6087485864)
 local Pets = Luxt:Tab("Pets", 6087485864)
