@@ -7,12 +7,6 @@ auto farm (doesn't switch levels though oof, just use an auto clicker lmao)
 ]]
 _G.on = 1
 
-_G.AutoUpgrade = false --Auto upgrades your character
-
-_G.MaxCash = 100000 --For auto upgrade
---if your cash is below this number and autoupgrade is on 
---then it won't upgrade your character
-
 _G.WT = .15 --Wait Time
 
 loadstring(game:HttpGet("https://pastebin.com/raw/6czT45Jg"))()
